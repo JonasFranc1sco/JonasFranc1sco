@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JonasFranc1sco
+- 👀 I’m interested in learn new things on world of code.
+- 🌱 I’m currently learning software development.
+- 💞️ I’m looking to collaborate on any company for start my software enginner carrer.
+- 📫 How to reach me: Email: jonasgouveia19@gmail.com

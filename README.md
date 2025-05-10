@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JonasFranc1sco
-- 🌱 I’m currently learning Go, Python, JS and cybersecurity.
-- 💞️ I’m looking to collaborate on any company for start my software enginner carrer.
 - 📫 How to reach me ⬇️
 - 📩 Email: jonasgouveia19@gmail.com
 - 📲 Instagram: jonasufrancisco

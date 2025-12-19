@@ -12,6 +12,12 @@ class Student:
     self.code = ["Javascript", "HTML", "CSS", "Golang", "Python"]
     self.tools = ["Django"]
     self.architecture = ["integration tests", "design system pattern"]
+
+  def say_welcome(self):
+    print("Welcome to my GitHub, I hope you find something interesting about my work.")
+
+jonas = Student()
+jonas.say_welcome()
 ```
 
 ---

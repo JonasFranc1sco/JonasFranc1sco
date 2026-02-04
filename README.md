@@ -9,7 +9,7 @@
 ```python
 class Student:
   def __init__(self):
-    self.code = ["Javascript", "HTML", "CSS", "Golang", "Python"]
+    self.code = ["Golang", "Python"]
     self.tools = ["Django"]
     self.architecture = ["integration tests", "design system pattern"]
 

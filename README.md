@@ -22,8 +22,7 @@ jonas.say_welcome()
 
 ---
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonasFranc1sco&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonasFranc1sco&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonasFranc1sco&theme=tokyonight&card_width=370" />
 </p>

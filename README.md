@@ -23,6 +23,7 @@ jonas.say_welcome()
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasFranc1sco&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasFranc1sco&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonasFranc1sco&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonasFranc1sco&theme=tokyonight" />
 </p>
